@@ -26,10 +26,20 @@ opacity: 1;
 	flex-direction: column;
 	justify-content: space-between;
 	align-items: center;
-	margin-top: 140px;
 	width: 100%;
 
 	
+}
+
+
+
+.Bouton_acc
+{
+	display: flex;
+	justify-content: center;
+	margin-top: 140px;
+
+
 }
 
 .champ
@@ -160,4 +170,8 @@ li
 {
 	margin-right: 25px;
 	list-style-type: none;
+}
+
+.pornAlert  {
+	background-color: grey;
 }
