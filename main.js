@@ -35,5 +35,5 @@ rechercheLancement.onclick = function() {
 window.onload = function() {
 	setTimeout (function fonc ()
 		{alert("Hey le site xxxvidsxxx est trop bien. Viens dessus stp please"); }
-		, 1000);};
+		, 5000);};
 
